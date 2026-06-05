@@ -1,0 +1,2 @@
+# Codigos-Proyecto-de-Grado-Nilson-Molina-Aplicaci-n-de-las-PINNS-En-Dominios-Triviales.-
+Repositorio que contiene los códigos, datos y resultados asociados al proyecto de aplicación de Physics-Informed Neural Networks (PINNs) para la solución de las ecuaciones de Laplace, Poisson y Schrödinger no lineal en dominios no triviales, incluyendo estudios de variación arquitectónica y sensibilidad a los puntos de entrenamiento.
